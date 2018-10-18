@@ -2,7 +2,7 @@
 Protect your Raspberry Pi from power cuts with help from this UPS (and an ATTiny85)
 
 # See video #124 at https://wwww.youtube.com/ralphbacon  
-(Direct link to video:  )
+(Direct link to video: https://youtu.be/7Vx_QIYrgQo)  
 
 Power cut? No problem!
 
@@ -18,6 +18,16 @@ Now, there is a well known "issue" with this board, inasmuch that if the battery
 But a simple ATTiny85 module and a resistor or two plus a simple NPN transistor and we have the PERFECT solution!
 
 The simple sketch I'm using to demonstrate this board, plus a circuit diagram can all be found on my GitHub.
+
+---
+
+If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so :)
+
+My channel and blog are here:  
+------------------------------------------------------------------  
+https://www.youtube.com/RalphBacon  
+https://ralphbacon.blog  
+------------------------------------------------------------------
 
 
 
