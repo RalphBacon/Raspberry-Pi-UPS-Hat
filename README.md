@@ -10,7 +10,7 @@ Banggood have kindly supplied me with the Geekworm Power Pack Pro V1.1 Lithium B
 
 I'm using a Pi Model 3B+ but it should work with any 40-pin header model. Here's the link:
 
-https://www.banggood.com/Geekworm-Power-Pack-Pro-V1_1-Lithium-Battery-Power-Source-UPS-HAT-Expansion-Board-For-Raspberry-Pi-p-1205973.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3312
+https://www.banggood.com/Geekworm-Power-Pack-Pro-V1_1-Lithium-Battery-Power-Source-UPS-HAT-Expansion-Board-For-Raspberry-Pi-p-1205973.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3312  
 (This is an affiliate link - if you click it and order the item within 14 days I get a tiny commission!)
 
 Now, there is a well known "issue" with this board, inasmuch that if the battery becomes depleted it will not reconnect the power to the Pi once power is restored. Oops.
